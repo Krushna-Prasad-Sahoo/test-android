@@ -26,5 +26,7 @@ Registry:
 
 3. Configured `Google Pixel 7` as my emulator. I downloaded `API 34` as my system image for the emulator. It was around 1.4 GB. And I noticed `Pixel 3a` was already available for me to use as emulator.
 
+---
+Day 02 (19th October 2023)
 
-
+1. In [this 2nd video](https://youtu.be/oUYgLzmUl0o?si=3twinfVD6-GQYVB_) I got a nice overview / structural and components understanding of the Android Studio. I checked them out myself in my system. Tried navigating all the buttons / getting ready to make hand dirty!!! 
