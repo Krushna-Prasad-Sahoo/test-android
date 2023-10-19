@@ -29,4 +29,5 @@ Registry:
 ---
 Day 02 (19th October 2023)
 
-1. In [this 2nd video](https://youtu.be/oUYgLzmUl0o?si=3twinfVD6-GQYVB_) I got a nice overview / structural and components understanding of the Android Studio. I checked them out myself in my system. Tried navigating all the buttons / getting ready to make hand dirty!!! 
+1. In [this 2nd video](https://youtu.be/oUYgLzmUl0o?si=3twinfVD6-GQYVB_) I got a nice overview / structural and components understanding of the Android Studio. I checked them out myself in my system. Tried navigating all the buttons / getting ready to make hand dirty!!!
+2. In [this 3rd video](https://youtu.be/ppPX65NU7ko?si=-O4M1lgS0P24AOhK) I understood / learnt some Kotlin or I can say Android Dev things, created my first Android App (tried myself in my phone + shared with my friends as well). 
