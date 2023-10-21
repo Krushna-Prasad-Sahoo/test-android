@@ -35,7 +35,9 @@ Day 02 (19th October 2023)
 ---
 Day 03 (20th October 2023)
 
-In this [4th video](https://youtu.be/qllC71SYHz4?si=5xp9e-AKqDdPHz6b) I learnt and tried to build a simple interactive app. Where there will be 2 buttons (black & tale). If you click black, the app backgroud / layout will be black and the same goes for other button. It was simple and niceeee :)
+1. In this [4th video](https://youtu.be/qllC71SYHz4?si=5xp9e-AKqDdPHz6b) I learnt and tried to build a simple interactive app. Where there will be 2 buttons (black & tale). If you click black, the app backgroud / layout will be black and the same goes for other button. It was simple and niceeee :)
 
 ---
 Day 04 (21st October 2023)
+
+1. In this [5th video](https://youtu.be/QltvZXWsba4?si=TcRAy_XnMuNOnbtD) I understood the concept of multiple Layouts such as `Constraint Layout`, `Linear Layout` & `Relative Layout`. I saw some of their example use cases & I feel after implementing or playing around that will make me realise the concept thoroughly.
