@@ -41,3 +41,5 @@ Day 03 (20th October 2023)
 Day 04 (21st October 2023)
 
 1. In this [5th video](https://youtu.be/QltvZXWsba4?si=TcRAy_XnMuNOnbtD) I understood the concept of multiple Layouts such as `Constraint Layout`, `Linear Layout` & `Relative Layout`. I saw some of their example use cases & I feel after implementing or playing around that will make me realise the concept thoroughly.
+
+---
