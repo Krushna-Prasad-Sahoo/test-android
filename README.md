@@ -43,3 +43,7 @@ Day 04 (21st October 2023)
 1. In this [5th video](https://youtu.be/QltvZXWsba4?si=TcRAy_XnMuNOnbtD) I understood the concept of multiple Layouts such as `Constraint Layout`, `Linear Layout` & `Relative Layout`. I saw some of their example use cases & I feel after implementing or playing around that will make me realise the concept thoroughly.
 
 ---
+Day 05 (22nd October 2023)
+
+1. Some motivation from [this video](https://youtu.be/hzAgqLkyRX4?si=c8Eezu8mQDuZpnHk).
+2. I have tried Java earlier, but truly its tough for me. And I never tried anything with Kotlin ever. And [this video](https://youtu.be/fgfQeclyZiU?si=prXuP2FGnUZYXQL8) inspires me to continue this android dev course (makes me feel better that I accepted this challenge) -- even I am noob with these languages. #continuouslearning
