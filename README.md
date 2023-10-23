@@ -47,3 +47,6 @@ Day 05 (22nd October 2023)
 
 1. Some motivation from [this video](https://youtu.be/hzAgqLkyRX4?si=c8Eezu8mQDuZpnHk).
 2. I have tried Java earlier, but truly its tough for me. And I never tried anything with Kotlin ever. And [this video](https://youtu.be/fgfQeclyZiU?si=prXuP2FGnUZYXQL8) inspires me to continue this android dev course (makes me feel better that I accepted this challenge) -- even if I am noob with these languages. #continuouslearning
+
+---
+Day 06 (24th October 2023)
