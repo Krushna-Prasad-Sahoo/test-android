@@ -50,3 +50,5 @@ Day 05 (22nd October 2023)
 
 ---
 Day 06 (24th October 2023)
+
+1. In this [6th video](https://youtu.be/1sjA4e_wG3w?si=UCP77uTSp2o60Mg7) I came to know about the Android Activity Lifecycle. There are 
