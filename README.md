@@ -52,3 +52,8 @@ Day 05 (22nd October 2023)
 Day 06 (24th October 2023)
 
 1. In this [6th video](https://youtu.be/1sjA4e_wG3w?si=UCP77uTSp2o60Mg7) I came to know about the Android Activity Lifecycle. There are a core set of six callbacks: `onCreate()`, `onStart()`, `onResume()`, `onPause()`, `onStop()`, and `onDestroy()`. There we discussed one more called `onRestart()` as well. I quickly went through the [Android Developer Official Guide](https://developer.android.com/guide/components/activities/activity-lifecycle#kotlin) for more understanding on this concept. So well explained!
+
+---
+Day 07 (25th October 2023)
+
+1. From this [7th video](https://youtu.be/RHFrA6QPWPQ?si=0Ke1yXwc7eSrrjf6) I understood the concept of `Text View` and `Scroll View`. Its so nice, I tried to implement in my Android Studio, got some error like `API 33` is not working, need `API 34`. Tried to rectify it, but I don't where I clicked mistakenly the view of my studio got changed. I am not feeling well today about that. But my app was ready. I had 2 images, some long paragraph under image1, so that text scrolling can be tested. Will try again after taking a nap. Will let you know how it goes!
