@@ -51,4 +51,4 @@ Day 05 (22nd October 2023)
 ---
 Day 06 (24th October 2023)
 
-1. In this [6th video](https://youtu.be/1sjA4e_wG3w?si=UCP77uTSp2o60Mg7) I came to know about the Android Activity Lifecycle. There are 
+1. In this [6th video](https://youtu.be/1sjA4e_wG3w?si=UCP77uTSp2o60Mg7) I came to know about the Android Activity Lifecycle. There are a core set of six callbacks: `onCreate()`, `onStart()`, `onResume()`, `onPause()`, `onStop()`, and `onDestroy()`. There we discussed one more called `onRestart()` as well. I quickly went through the [Android Developer Official Guide](https://developer.android.com/guide/components/activities/activity-lifecycle#kotlin) for more understanding on this concept. So well explained!
