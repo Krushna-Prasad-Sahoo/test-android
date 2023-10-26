@@ -65,4 +65,4 @@ Day 07 (25th October 2023)
      - targetSdk = 34
   - Then click `Sync now` -> wait for a minute & then build. It will be done successfully.
 
-3. I tried only puuting a single image in `LinerLayout` and it worked. Now I will try with some text -> then will try the same app I was trying before "some scrolling text sandwiched between two images".
+3. I tried only puting a single image in `LinerLayout` and it worked. Now I will try with some text -> then will try the same app I was trying before "some scrolling text sandwiched between two images".
