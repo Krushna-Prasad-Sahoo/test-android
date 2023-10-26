@@ -69,3 +69,8 @@ Day 07 (25th October 2023)
 4. In my next attempt it wokred 100% as expected. Some scrolling texts are sandwiched between 2 images. Though this app is not much interactive, only can be seen n text can be scrolled, I learnt something new and interesting.
 5. One thing I noticed that I would like to highlight that in any dummy text if a `&` symbol stay, the studio throws an error. I don't know why, but by seeing the logs & error messages I could understand them. I changed all `&` into `and` -> then it worked perfectly.
 6. From [here](https://github.com/Krushna-Prasad-Sahoo/test-android/blob/main/scroll-text-app_26thOct.apk) the final app `scroll-text-app_26thOct.apk` can be downloaded and tested.
+
+---
+Day 08 (26th October 2023)
+
+1. Received some hints from [this video](https://youtu.be/1VuTaNbRkkQ?si=8wToZW_X4Hm9yWkG) on troubleshooting many issue while working in Android Studio. I'm already working on this ...
