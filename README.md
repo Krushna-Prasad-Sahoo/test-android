@@ -57,3 +57,11 @@ Day 06 (24th October 2023)
 Day 07 (25th October 2023)
 
 1. From this [7th video](https://youtu.be/RHFrA6QPWPQ?si=0Ke1yXwc7eSrrjf6) I understood the concept of `Text View` and `Scroll View`. Its so nice, I tried to implement in my Android Studio, got some error like `API 33` is not working, need `API 34`. Tried to rectify it, but I don't where I clicked mistakenly the view of my studio got changed. I am not feeling well today about that. But my app was ready. I had 2 images, some long paragraph under image1, so that text scrolling can be tested. Will try again after taking a nap. Will let you know how it goes!
+
+2. On my next attempt after few hours break I could build the app and run on emulator (also tried in my phone). Unfortunately, the 2 images didn't show up this time, but text view was scrolling as expected. I will try again building the images only with some dummy text. Before that let me tell you where I rectified to resolve the issue.
+  - Go to `AppName > app` -> click on that , you will see a file called `build.gradle.kts` -> open it
+  - There I changed 2 values to 34 :
+     - compileSdk = 34
+     - targetSdk = 34
+  - Then click `Sync now` -> wait for a minute & then build. It will be done successfully.
+
