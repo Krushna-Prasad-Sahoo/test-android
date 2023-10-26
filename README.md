@@ -66,3 +66,6 @@ Day 07 (25th October 2023)
   - Then click `Sync now` -> wait for a minute & then build. It will be done successfully.
 
 3. I tried only puting a single image in `LinerLayout` and it worked. Now I will try with some text -> then will try the same app I was trying before "some scrolling text sandwiched between two images".
+4. In my next attempt it wokred 100% as expected. Some scrolling texts are sandwiched between 2 images. Though this app is not much interactive, only can be seen n text can be scrolled, I learnt something new and interesting.
+5. One thing I noticed that I would like to highlight that in any dummy text if a `&` symbol stay, the studio throws an error. I don't know why, but by seeing the logs & error messages I could understand them. I changed all `&` into `and` -> then it worked perfectly.
+6. 
