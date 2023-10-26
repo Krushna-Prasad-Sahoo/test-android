@@ -74,3 +74,10 @@ Day 07 (25th October 2023)
 Day 08 (26th October 2023)
 
 1. Received some hints from [this video](https://youtu.be/1VuTaNbRkkQ?si=8wToZW_X4Hm9yWkG) on troubleshooting many issue while working in Android Studio. I'm already working on this ...
+
+---
+Day 09 (27th October 2023)
+
+1. In this [8th video](https://youtu.be/47teINBTF08?si=zdxyRa6jX_5PW6p1) I understood a new concept. When we have use case such as when you click a button -> new app opens up or if you click a button & another page of the same app open up -> then in that case we have to use `Intents`. There are 2 types of Intents.
+   - Explicit Intent : Explicit intents are used for communication inside the application. Like changing activities inside the application.
+   - Implicit Intent : They are used for communication across two different applications.
