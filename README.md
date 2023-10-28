@@ -83,3 +83,11 @@ Day 09 (27th October 2023)
    - Implicit Intent : They are used for communication across two different applications.
 2. I just loved it... I am truly amazed with the APP I created now after one hour work. Its size is 25 MB, so I am not able to upload it here in GitHub but yeah I will explain you how it works. So I have used the concept called `Explicit Intent`. So when you open my app -> it will show you a place picture & its name, below the picture you will see 3 buttons as `Visit XyZ` -> So when you click it you will be seeing another page with that place & 3 button below (to come back to the 1st place or to visit some different place) . I was so amazed because it worked in my first attempt without any errors.
 3. I have a plan to create a homepage & keep thier 5 buttons to visit 5 different places. Every place will be available on different page with a image, some text on the place and a back button to come back to home page. Then I will share it with my family and friends. I will start from a scratch new project for this. I am so excited!
+
+---
+Day 10 (28th October 2023)
+
+1. In [this video](https://youtu.be/gG7sqvJjLaE?si=95Qab813AqIDrOix) I got the commands to push the android projects to github repository. I was aware of this thing earlier and the commands as well. So it was a nice revision for me. I am working on the project that I mentioned yesterday, I will upload that in the same way - in a new repo.
+2. First you need to download git/gitbash in your local setup. Then you can use git commands to push the project files after authenticating.
+3. Sharing the commands below :
+    
