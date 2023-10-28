@@ -90,4 +90,17 @@ Day 10 (28th October 2023)
 1. In [this video](https://youtu.be/gG7sqvJjLaE?si=95Qab813AqIDrOix) I got the commands to push the android projects to github repository. I was aware of this thing earlier and the commands as well. So it was a nice revision for me. I am working on the project that I mentioned yesterday, I will upload that in the same way - in a new repo.
 2. First you need to download git/gitbash in your local setup. Then you can use git commands to push the project files after authenticating.
 3. Sharing the commands below :
-    
+
+~~~    
+- Check status : `git status`
+- Initialise  : `git init`
+- Add remote location with name `origin` : `git remote add origin https://github.com/<user_acc_name>/<repo_name>`
+- Check remote location : `git remote`
+- More details on remote location : `git remote -v`
+- Put all files into staging area : `git add .`
+- Check status : `git status`
+- Save all changes : `git commit -m "Adding all project files"`
+- Check status : `git status`
+- Check branch : `git branch`
+- Push to remote repo in `master` branch : `git push origin master`
+~~~
