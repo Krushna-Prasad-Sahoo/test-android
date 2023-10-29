@@ -104,3 +104,8 @@ Day 10 (28th October 2023)
 - Check branch : `git branch`
 - Push to remote repo in `master` branch : `git push origin master`
 ~~~
+
+---
+Day 11 (29th October 2023)
+
+1. It was a busy day for me. I haven't done any thing with respect to Android Dev today. Will first complete the yesterday's project. Then will continue learning new things.
