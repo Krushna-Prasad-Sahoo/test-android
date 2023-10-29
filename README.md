@@ -109,3 +109,4 @@ Day 10 (28th October 2023)
 Day 11 (29th October 2023)
 
 1. It was a busy day for me. I haven't done any thing with respect to Android Dev today. Will first complete the yesterday's project. Then will continue learning new things.
+2. The project is ready now! It have some features as below :
