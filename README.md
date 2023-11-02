@@ -113,3 +113,5 @@ Day 11 (29th October 2023)
 
 ---
 Day 12 (1st November 2023)
+
+1. From this [video](https://youtu.be/YVfBEowGBU8?si=T-rNdr2psH9reub8) I did learn about `Implicit Intent Concept` in Android. Implemented it as well. My app was working well on my phone, but the emulator on Android Studio was failing when the `camera` was opening or `chrome` browser was opening. It was not throwing any error, but I felt like it was getting restarted. 
