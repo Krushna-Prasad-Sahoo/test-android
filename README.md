@@ -121,3 +121,4 @@ Day 12 (1st November 2023)
 Day 13 (3rd November 2023)
 
 1. In this [video](https://youtu.be/VmPo5OV70yM?si=Ka38heiBVQEHxN_B) I got a new concept of `WebView`. It was really interesting. With this power I was able to make multiple website's clone mobile app in few minutes. And also I have few friend who have their personal website or portfolio. I gifted them with a mobile app of their portfolio or website. Hahaha xD. This was awesome.
+2. Also in this video I came to know how to take user permission for _Internet_ and also I learnt how to create a function in Kotlin using `fun` keyword.
