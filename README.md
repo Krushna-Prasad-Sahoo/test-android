@@ -116,3 +116,8 @@ Day 12 (1st November 2023)
 
 1. From this [video](https://youtu.be/YVfBEowGBU8?si=T-rNdr2psH9reub8) I did learn about `Implicit Intent Concept` in Android. Implemented it as well. My app was working well on my phone, but the emulator on Android Studio was failing when the `camera` was opening or `chrome` browser was opening. It was not throwing any error, but I felt like it was getting restarted.
 2. Also, I understrood another view called `CardView` and implemented that in this test.
+
+---
+Day 13 (3rd November 2023)
+
+1. In this [video](https://youtu.be/VmPo5OV70yM?si=Ka38heiBVQEHxN_B) I got a new concept of `WebView`. It was really interesting. With this power I was able to make multiple website's clone mobile app in few minutes. And also I have few friend who have their personal website or portfolio. I gifted them with a mobile app of their portfolio or website. Hahaha xD. This was awesome.
