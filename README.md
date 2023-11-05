@@ -127,3 +127,4 @@ Day 13 (3rd November 2023)
 Day 14 (4th November 2023)
 
 1. In this [video](https://youtu.be/a5tc0QALO-w?si=RryqSbnDHBWFzxCh) I received an idea (or better to say an assignment) to try and implement it. It uses all the concepts learned till now, incluing buttons, multiple views, explicit & implicit intents and to make the app little interactive. Need to find few things by own. Let's see when I can try it.
+2. I am planning to add Implicit Intent concept in my previous project i.e `Place Sage` -> a simple button to call or send a mail kind of thing.
