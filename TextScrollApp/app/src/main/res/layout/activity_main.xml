@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:paddingTop="10dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:text="Hello Krushna" />
+
+    <ImageView
+        android:id="@+id/beOpen"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:src="@drawable/beopen" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="100dp" >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content"
+            android:text="Hey, a warm welcome to my profile. This is KP. Unlike other IT enthusiasts, I am highly inclined and passionate towards IT operations which includes amazing stuffs like Automation, Optimization, Infrastructure, Networking, Configurations, Monitoring, High Availability and Disaster Recovery Setup etc. Though I have some experience in development like Web Development using HTML, CSS, JS, Bootstrap or WordPress or Python Flask, BPM solutions using Appian Platform however I just love to spend time on Linux terminals and servers, creating some personalized container images, experimenting in cloud platforms like AWS or AZ or GCP or automating stuffs using some tools like Ansible or Terraform or Python/Shell scripting etc. And finally I have joined my dream organisation, Red Hat." />
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/poolBall"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:src="@drawable/poolball" />
+
+</LinearLayout>
