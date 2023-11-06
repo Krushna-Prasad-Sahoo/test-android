@@ -135,3 +135,8 @@ Day 15 (5th November 2023)
 1. In this [13th video](https://youtu.be/kGb2aQV2H1c?si=FunHLTlL5tCl-0cI) I understood few concepts on how to capture user data, and pass them to another screen.
 2. Implemented a small demo app - `Nothing Cafe` where user can pass some name of the food then press the _Order Now_ button, in the next page it will just show that orders placed.
 3. During this mini app, I learnt about `companion object` concept, `toString()`, passing data via `key` and value in `intent.putExtra()` .
+
+---
+Day 16 (6th November 2023)
+
+1. [This video](https://youtu.be/kGYOGJeBPhY?si=GEqsxJ9QZ8Q34IUw) was really great. A long one but worthy, learned a lot about `LogCat` - how to check the logs and troubleshoot, filtering out logs, adding tags in application code etc.
