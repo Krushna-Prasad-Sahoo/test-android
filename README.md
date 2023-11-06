@@ -128,3 +128,10 @@ Day 14 (4th November 2023)
 
 1. In this [video](https://youtu.be/a5tc0QALO-w?si=RryqSbnDHBWFzxCh) I received an idea (or better to say an assignment) to try and implement it. It uses all the concepts learned till now, incluing buttons, multiple views, explicit & implicit intents and to make the app little interactive. Need to find few things by own. Let's see when I can try it.
 2. I am planning to add Implicit Intent concept in my previous project i.e `Place Sage` -> a simple button to call or send a mail kind of thing.
+
+---
+Day 15 (5th November 2023)
+
+1. In this [13th video](https://youtu.be/kGb2aQV2H1c?si=FunHLTlL5tCl-0cI) I understood few concepts on how to capture user data, and pass them to another screen.
+2. Implemented a small demo app - `Nothing Cafe` where user can pass some name of the food then press the _Order Now_ button, in the next page it will just show that orders placed.
+3. During this mini app, I learnt about `companion object` concept, `toString()`, passing data via `key` and value in `intent.putExtra()` .
