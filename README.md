@@ -140,3 +140,6 @@ Day 15 (5th November 2023)
 Day 16 (6th November 2023)
 
 1. [This video](https://youtu.be/kGYOGJeBPhY?si=GEqsxJ9QZ8Q34IUw) was really great. A long one but worthy, learned a lot about `LogCat` - how to check the logs and troubleshoot, filtering out logs, adding tags in application code etc.
+2. Secondly leanred and implemented another concept called `Splash Screen` using `Handler().postDelayed()` method.
+3. Also, got a trick i.e to hide the action bar we can use `supportActionBar?.hide()` method.
+4. Here the interesting thing(`?`) is used to handle the Null value (in case it is present). 
