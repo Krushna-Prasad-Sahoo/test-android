@@ -143,3 +143,8 @@ Day 16 (6th November 2023)
 2. Secondly leanred and implemented another concept called `Splash Screen` using `Handler().postDelayed()` method.
 3. Also, got a trick i.e to hide the action bar we can use `supportActionBar?.hide()` method.
 4. Here the interesting thing(`?`) is used to handle the Null value (in case it is present). 
+
+---
+Day 17 (7th November 2023)
+
+In [this video](https://youtu.be/7TyaGn0I2d0?si=FJ-JthYoJcRw5DWQ) I
