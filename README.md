@@ -147,4 +147,5 @@ Day 16 (6th November 2023)
 ---
 Day 17 (7th November 2023)
 
-In [this video](https://youtu.be/7TyaGn0I2d0?si=FJ-JthYoJcRw5DWQ) I
+1. In [this video](https://youtu.be/7TyaGn0I2d0?si=FJ-JthYoJcRw5DWQ) I understood about `gradient` colour creation in Android Studio as per own requirement and how to use that as app background.
+2. 
